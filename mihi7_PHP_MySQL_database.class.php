@@ -1,7 +1,7 @@
 <?php
 /*
  * Created By Mihitha Rajith Kankanamge
- * Copyrighted
+ * GNU GENERAL PUBLIC LICENSE
  * Created 29 May 2015 (Version 1)
  * Update 21 Sep 2015 (Version 2)
  * All rights received.
